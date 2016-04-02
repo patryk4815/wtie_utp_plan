@@ -1,0 +1,19 @@
+Requirements
+============
+
+* Python 3.5+
+
+Instalation
+===========
+
+```
+git clone https://github.com/patryk4815/wtie_utp_plan.git
+```
+
+Run
+===
+
+```
+cd wtie_utp_plan
+python3.5 main.py
+```
