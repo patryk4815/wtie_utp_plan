@@ -2,3 +2,4 @@ dnspython3==1.12.0
 PyPDF2==1.25.1
 beautifulsoup4==4.4.1
 html5lib==0.9999999
+requests==2.8.1
