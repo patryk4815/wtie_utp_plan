@@ -7,6 +7,7 @@ Instalation
 ===========
 
 .. code-block:: python
+
     git clone https://github.com/patryk4815/wtie_utp_plan.git
     cd wtie_utp_plan
     pip install -r requirements.txt
@@ -22,5 +23,6 @@ Run
 ===
 
 .. code-block:: python
+
     cd wtie_utp_plan
     python3.5 main.py
